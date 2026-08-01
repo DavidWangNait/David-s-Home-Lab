@@ -14,3 +14,4 @@
 - Set CPU cores
 - Set HDD
 ## Click save
+- You can test run
