@@ -1,6 +1,6 @@
 # Set up a new virtual machine
 
-## Open Olacle Virtualbox
+## Open Oracle Virtualbox
 - Select it from desktop or start manual
 - Click it and make sure it load correctly
 ## Click Create a new virtual machine (VM)
@@ -14,4 +14,4 @@
 - Set CPU cores
 - Set HDD
 ## Click save
-- You can test run
+- You can test run now
