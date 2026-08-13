@@ -4,3 +4,6 @@
 
 ## 08/07/2026
 - Change all vm adapter to bridge due to VirtualBox NAT prolem
+
+## 08/12/2026
+- Install windows 11 home to windows

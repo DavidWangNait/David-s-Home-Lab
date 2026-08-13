@@ -12,9 +12,8 @@ This is my first virtual machine after install VirtualBox
 - Virtualization: Oracle VirtualBox
 
 ## Network Configuration
-- DNS server: Outside network
-- Gateway: 192.168.1.1
-- Static/DHCP: DHCP
+- Bridge
+- IP get from home router
 
 ## Purpose
 - Understand how to setup a virtual machine in VirtualBox

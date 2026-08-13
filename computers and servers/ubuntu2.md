@@ -14,8 +14,8 @@
 - Virtualization: Oracle VirtualBox
 
 ## Network Configuration
-- DNS server: Outside network
-- Gateway: - Gateway: 192.168.1.1- Static/DHCP: DHCP
+- Bridge
+- IP get from home router
 
 ## Purpose
 - Practise Linux CLI, end user support, and other Linux environment
