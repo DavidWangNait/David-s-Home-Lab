@@ -7,3 +7,6 @@
 
 ## 08/12/2026
 - Install windows 11 home to windows
+
+## 09/08/2026
+- Document change about windows VM RAM size(undocumented)
