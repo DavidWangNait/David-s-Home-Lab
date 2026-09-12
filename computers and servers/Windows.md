@@ -12,7 +12,7 @@ Practise Windows troubleshooting and user support
 - IP Address: dynamic
 - MAC Address: auto
 - Storage: 64GB, IDE
-- CPU/RAM: 2 core, 8GB
+- CPU/RAM: 4 core, 8GB
 - Virtualization: Oracle VirtualBox
 
 ## Network Configuration
