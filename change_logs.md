@@ -10,3 +10,6 @@
 
 ## 09/08/2026
 - Document change about windows VM RAM size(undocumented)
+
+## 09/12/2026
+- Document changes undocumented
