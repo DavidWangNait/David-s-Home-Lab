@@ -1,5 +1,5 @@
 # Take snapshot
-
+https://www.youtube.com/shorts/AAylyeY5mKs
 ## Pre snapshot check
 - Make sure the VM is running
 - Makesure the VM is running normally and in the state that intent to take snapshot

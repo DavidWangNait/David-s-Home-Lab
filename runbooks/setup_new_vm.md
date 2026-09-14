@@ -1,5 +1,5 @@
 # Set up a new virtual machine
-
+https://www.youtube.com/watch?v=kOhp_cOndsE
 ## Open Oracle Virtualbox
 - Select it from desktop or start manual
 - Click it and make sure it load correctly
